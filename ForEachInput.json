@@ -1,15 +1,15 @@
 [
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/olist_customers_dataset.csv",
-	"file_name":"olist_customers_dataset.csv"
+	"filename":"olist_customers_dataset.csv"
 	},
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/olist_geolocation_dataset.csv",
-	"file_name":"olist_geolocation_dataset.csv"
+	"filename":"olist_geolocation_dataset.csv"
 	},
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/olist_order_items_dataset.csv",
-	"file_name":"olist_order_items_dataset.csv"
+	"filename":"olist_order_items_dataset.csv"
 	},
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/olist_order_payments_dataset.csv",
@@ -17,23 +17,23 @@
 	},
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/olist_order_reviews_dataset.csv",
-	"file_name":"olist_order_reviews_dataset.csv"
+	"filename":"olist_order_reviews_dataset.csv"
 	},
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/olist_orders_dataset.csv",
-	"file_name":"olist_orders_dataset.csv"
+	"filename":"olist_orders_dataset.csv"
 	},
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/olist_products_dataset.csv",
-	"file_name":"olist_products_dataset.csv"
+	"filename":"olist_products_dataset.csv"
 	},
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/olist_sellers_dataset.csv",
-	"file_name":"olist_sellers_dataset.csv"
+	"filename":"olist_sellers_dataset.csv"
 	},
 	{
 	"Ralative_url": "Big-Data-analysis/tree/master/Project-Brazillian%20Ecommerce/Data/product_category_name_translation.csv",
-	"file_name":"product_category_name_translation.csv"
+	"filename":"product_category_name_translation.csv"
 	}
 	
 ]
